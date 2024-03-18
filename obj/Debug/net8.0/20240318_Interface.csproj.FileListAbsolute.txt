@@ -1,0 +1,14 @@
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\bin\Debug\net8.0\20240318_Interface.exe
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\bin\Debug\net8.0\20240318_Interface.deps.json
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\bin\Debug\net8.0\20240318_Interface.runtimeconfig.json
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\bin\Debug\net8.0\20240318_Interface.dll
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\bin\Debug\net8.0\20240318_Interface.pdb
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\obj\Debug\net8.0\20240318_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\obj\Debug\net8.0\20240318_Interface.AssemblyInfoInputs.cache
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\obj\Debug\net8.0\20240318_Interface.AssemblyInfo.cs
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\obj\Debug\net8.0\20240318_Interface.csproj.CoreCompileInputs.cache
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\obj\Debug\net8.0\20240318_Interface.dll
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\obj\Debug\net8.0\refint\20240318_Interface.dll
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\obj\Debug\net8.0\20240318_Interface.pdb
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\obj\Debug\net8.0\20240318_Interface.genruntimeconfig.cache
+C:\Users\aaaaa\CSharp\심화\2024.03.18\20240318_Interface\obj\Debug\net8.0\ref\20240318_Interface.dll
